@@ -5,8 +5,10 @@
 </template>
 
 <script>
+
+
 export default {
-  name: 'Categary'
+  name: 'Categary',
 }
 </script>
 
